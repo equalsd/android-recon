@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/classes-d609202572f173a5173e8826133e195a440b02b6.jar" />
+    </item>
+    <item
+        jar="/Users/generic/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-f7ef638ac40ec2f2c69fc2da73b783c085552ea6.jar" />
+    </item>
+    <item
+        jar="/Users/generic/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/gson-2.3-46f8f208a89181ec5ad35028116a459b7b4a364a.jar" />
+    </item>
+    <item
+        jar="/Users/generic/.gradle/caches/modules-2/files-2.1/com.anjlab.android.iab.v3/library/1.0.27/825fe24623001e115ac5e96c439e3511a2d56764/library-1.0.27.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="825fe24623001e115ac5e96c439e3511a2d56764">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/library-1.0.27-d487d61990772b249e40641ef3a475987d25ff78.jar" />
+    </item>
+    <item
+        jar="/Users/generic/.gradle/caches/modules-2/files-2.1/com.koushikdutta.ion/ion/2.0.0/9e93d64dc384a162a53d363678cb833ac61fefd4/ion-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="9e93d64dc384a162a53d363678cb833ac61fefd4">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/ion-2.0.0-c623627f3035d4eebac5ceaee6ca09b2ad96ff80.jar" />
+    </item>
+    <item
+        jar="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/classes-09c8512a4c19691645cec02c776676b6a48f997c.jar" />
+    </item>
+    <item
+        jar="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/classes-1aaa2c8180e129d0b89134d135f17d5fd38ed61f.jar" />
+    </item>
+    <item
+        jar="/Users/generic/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/2.0.0/7b07bbed94717bfc4ed2c5e49baacbe1d46fca39/androidasync-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7b07bbed94717bfc4ed2c5e49baacbe1d46fca39">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/androidasync-2.0.0-568f71cf3c281e79ef32a0c81e70a0816ff770e3.jar" />
+    </item>
+    <item
+        jar="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-bda9fb98b571f3a652ac1331c02f0fce5dee2eb6.jar" />
+    </item>
+    <item
+        jar="/Users/generic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-0d910cd4ae5091556ee7acdad2de0c38123e6363.jar" />
+    </item>
+    <item
+        jar="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/generic/AndroidStudioProjects/android-recon/app/build/intermediates/pre-dexed/debug/classes-fa2a15e0ed871d000357c18273667eeb72747dea.jar" />
+    </item>
+
+</items>
